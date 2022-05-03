@@ -1,5 +1,5 @@
 # Building Smart Drones with ESP8266 and Arduino
-This is the code repository for [Building Smart Drones with ESP8266 and Arduino](https://www.packtpub.com/hardware-and-creative/building-smart-drones-esp8266-and-arduino?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781788477512), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Building Smart Drones with ESP8266 and Arduino]. It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## About the Book
 With this book, you will explore techniques for leveraging the tiny WiFi chip to enhance your drone and control it over a mobile phone. This book will start with teaching you how to solve problems while building your own wifi controlled Arduino based drone. You will also learn how to build a Quadcopter and a mission critical drone. Moving on you will learn how to build a prototype drone that will be given a mission to complete which it will do it itself. You will also learn to build various exciting projects such as gliding and racing drones. By the end of this book you will learn how to maintain and troubleshoot your drone.
